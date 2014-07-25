@@ -3,4 +3,4 @@ layout: post
 title: Hello World
 ---
 
-Lookin' at a thing on the net. [DaveyB!](https://twitter.com/davidbenedic)
+Lookin' at a thing on the web. [DaveyB!](https://twitter.com/davidbenedic)
