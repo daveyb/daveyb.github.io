@@ -9,9 +9,15 @@ permalink:        pretty
 title:            DaveyB!
 tagline:          A Thing on the Net
 url:              http://www.davidbenedic.com
-paginate:         1
+paginate:         5
 baseurl:          /
 author:
   name:           David Benedic
   url:            https://twitter.com/davidbenedic
   email:          davidbenedic@gmail.com
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/daveyb/daveyb.github.io
