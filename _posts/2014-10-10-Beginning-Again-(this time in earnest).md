@@ -7,18 +7,15 @@ I've decided to make yet another attempt to get back into development, at least,
 
 I'm not new to it, but it sure feels that way. It's been 6 years now since my last full time job as a developer. I've kept a toe in it since leaving, but it hasn't been enough.
 
-Why?
-----
+##Why?##
 
  Creative outlet. Personal fulfillment. Pursuit of something more, something satisfying. Can these be achieved? Creative outlet, sure, but the others are more waypoints off in the distance.
 
- Why Now?
- --------
+ ##Why Now?##
 
  2 kids, full-time job, weekends taken up with housework, birthday parties, extended family visits. This is something that fits into my schedule right now, productive work I can do after the kids go to bed.
 
- Where am I coming from?
- -----------------------
+ ##Where am I coming from?##
 
  I definitely can't say I've consistently focused on any one thing profesionally. I started in IT out of college, doing general support for a few years before jumping into full time Ruby on Rails position at a startup. This was during the social networking craze - everything was trying to be social, figure out how it fit in - so that's what I did, built a series of "me too" social networks. More than anything, I learned that diving in headfirst is the only way to learn.
 
@@ -28,8 +25,7 @@ Why?
 
 I've been working in IT ever since. I've developed a few applications professionally since - a touch-enabled keypad in Ruby on Rails (TDD and my first gem), a system status page (Zend framework), several Wordpress sites for various projects and dabbled in Node.js with all of them - but I'm not a full time developer. I'm barely even a part time developer.
 
-Where do I want to go?
-----------------------
+##Where do I want to go?##
 
 C# and .NET. It can power websites, desktop apps, APIs, and now every mobile platform via [Xamarin](http://xamarin.com/). It's one language that can do it all. It's a strongly typed language, meaning I can't just create a variable and assume the interpreter will know what kind of type it is (which is found in Ruby, PHP, and others). C# types are cast when variables are defined or objects are assigned to a variable.
 
