@@ -27,11 +27,13 @@ You'll find your knife.rb file in ~/chef-repo/.chef or ~/.chef. If it isn't ther
 
 Simple.
 
-Add to your knife.rb file
+Add to your knife.rb file:
 
+```
 `knife[:azure_publish_settings_file] = "/full/path/to/myazure.publishsettings"`
+```
 
-- Don't use a relative path or your home path "~/" as indicated in the README. If you do, you'll get an error
+Don't use a relative path or your home path "~/" as indicated in the README. If you do, you'll get an error
 
 ```
 WARNING: no knife configuration file found
