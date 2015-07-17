@@ -7,7 +7,7 @@ I ran into some issues with the [chef/knife-azure](https://github.com/chef/knife
 
 ##Installation##
 
-`sudo gem install knife-azure` fails. I found a good writeup on this here: http://effectif.com/ruby/installing-nokogiri-on-mavericks
+`sudo gem install knife-azure` fails. I found a good writeup on this at [http://effectif.com/ruby/installing-nokogiri-on-mavericks](http://effectif.com/ruby/installing-nokogiri-on-mavericks)
 
 I'm using rvm, not rbenv, but the solution that worked for me is pretty much the same:
 
