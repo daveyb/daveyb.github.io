@@ -33,6 +33,6 @@ Add to your knife.rb file `knife[:azure_publish_settings_file] = "/full/path/to/
 WARNING: no knife configuration file found
 ```
 
-![](https://github.com/daveyb/daveyb.github.io/images/knife-azure-error.png)
+![](https://raw.githubusercontent.com/daveyb/daveyb.github.io/master/images/knife-azure-error.png)
 
 After configuring knife.rb correctly, you should be able to get started using knife-azure!
