@@ -30,7 +30,7 @@ Simple.
 Add to your knife.rb file:
 
 ```
-knife[:azure_publish_settings_file] = "/full/path/to/myazure.publishsettings"`
+knife[:azure_publish_settings_file] = "/full/path/to/myazure.publishsettings"
 ```
 
 Don't use a relative path or your home path "~/" as indicated in the README. If you do, you'll get an error
