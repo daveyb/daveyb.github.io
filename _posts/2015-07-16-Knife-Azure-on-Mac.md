@@ -19,7 +19,7 @@ Once the gem installs, it should be available in your shell $PATH. Try running `
 
 ##Configuration##
 
-Once you've downloaded your Azure publishsettings file (https://manage.windowsazure.com/publishsettings/index?client=xplat), you have to tell knife where to find that file so it can communicate with your Azure account. The publishsettings file is actually a really convenient way to authenticate to Azure.
+Once you've downloaded your Azure publishsettings file [https://manage.windowsazure.com/publishsettings/index?client=xplat](https://manage.windowsazure.com/publishsettings/index?client=xplat), you have to tell knife where to find that file so it can communicate with your Azure account. The publishsettings file is actually a really convenient way to authenticate to Azure.
 
 *DO NOT check your publishsettings file into GitHub*, for obvious reasons.
 
