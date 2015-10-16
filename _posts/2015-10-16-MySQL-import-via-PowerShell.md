@@ -4,6 +4,7 @@ title: MySQL import via PowerShell
 ---
 
 I attempted to import a MySQL database I had previously exported today via PowerShell, and was greeted with this lovely error:
+
 ![](https://raw.githubusercontent.com/daveyb/daveyb.github.io/master/images/mysql-ps-1.PNG)
 
 For the record, the import command was:
