@@ -8,7 +8,9 @@ I attempted to import a MySQL database I had previously exported today via Power
 
 For the record, the import command was:
 
-`mysql -h [hostname] -u [user] -p [tablename] < backup.sql`
+```
+mysql -h [hostname] -u [user] -p [tablename] < backup.sql
+```
 
 And the error thrown, "The '<' operator is reserved for future use.".
 
