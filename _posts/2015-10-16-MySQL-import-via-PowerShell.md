@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MySQL import via PowerShell
+title: MySQL import into Azure (ClearDB) via PowerShell
 ---
 
 I attempted to import a MySQL database I had previously exported today via PowerShell, and was greeted with this lovely error:
